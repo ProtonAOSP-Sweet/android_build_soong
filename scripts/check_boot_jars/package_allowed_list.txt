@@ -259,6 +259,8 @@ com\.qualcomm\.wfd\..*
 org\.codeaurora\.ims.*
 # telephony-ext:
 org\.codeaurora\.internal.*
+com\.quicinc\.tcmiface.*
+org\.ifaa\.android\.manager.*
 
 ###################################################
 # IFAA Manager used for Alipay and/or WeChat payment
